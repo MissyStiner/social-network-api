@@ -1,0 +1,23 @@
+{
+  "name": "social-network-api",
+  "version": "1.0.0",
+  "description": "share thoughts and react to friends thoughts and create a friends list",
+  "main": "server.js",
+  "scripts": {
+    "test": "test",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MissyStiner/social-network-api.git"
+  },
+  "author": "Missy Stiner",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MissyStiner/social-network-api/issues"
+  },
+  "homepage": "https://github.com/MissyStiner/social-network-api#readme",
+  "dependencies": {
+    "mongoose": "^6.0.12"
+  }
+}
