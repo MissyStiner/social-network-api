@@ -1,10 +1,10 @@
 // Thought
 const { Schema, model } = require('mongoose');
 const reactionSchema = require('./Reaction');
-// const dateFormat = require('../utils/dateFormat');
+const dateFormat = require('../utils/dateFormat');
 
 // thoughtText
-// String
+// Stringgit
 // Required
 // Must be between 1 and 280 characters
 const thoughtSchema = new Schema(

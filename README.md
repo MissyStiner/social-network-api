@@ -13,7 +13,7 @@
  https://github.com/MissyStiner/social-network-api
 
  ## Walkthrough Video Demo URL
- Your walkthrough video should show the POST, PUT, and DELETE routes for thoughts being tested in Insomnia Core. Your walkthrough video should show the POST and DELETE routes for reactions to thoughts being tested in Insomnia Core.
+ https://watch.screencastify.com/v/XhG29vvefOKmh9RAFUtp
 
  ## User Story
  AS A social media startup<br>
